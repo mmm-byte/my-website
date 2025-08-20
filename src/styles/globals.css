@@ -1,0 +1,18 @@
+/* Import Tailwind v4 layers */
+@import "tailwindcss";
+
+/* -----------------------------
+   Custom global styles (optional)
+   ----------------------------- */
+
+/* Example: Reset body margin and set font */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+/* Example: Style links consistently */
+a {
+  color: inherit;
+  text-decoration: none;
+}
